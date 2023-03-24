@@ -1,0 +1,7 @@
+{
+  "license": "UNLICENSED",
+  "dependencies": {
+    "typescript": "4.9",
+    "@internal/my-client": "file:../my-client"
+  }
+}
