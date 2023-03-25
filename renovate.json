@@ -3,5 +3,6 @@
   "postUpgradeTasks": {
     "commands": ["./pre-renovate.sh"],
     "executionMode": "branch"
-  }
+  },
+  "allowedPostUpgradeCommands": ["./pre-renovate.sh"]
 }
